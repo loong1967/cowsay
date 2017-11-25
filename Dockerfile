@@ -1,5 +1,5 @@
-# Cowsay Container - v0.5
-FROM alpine:3.5
+# Cowsay Container - v0.6
+FROM alpine:3.6
 
 MAINTAINER loong1967@loong.org 
 
